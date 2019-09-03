@@ -1,4 +1,4 @@
-# RPi_HexLoader
+# RPi_Teensy_HexLoader
 WIP to attempt a simple HEX loader from Raspberry Pi.
 
 ## Specs
